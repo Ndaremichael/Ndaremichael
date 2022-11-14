@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ndaremichael
 - 👀 I’m interested in ...software develpoment
 - 🌱 I’m currently learning ...mobile app development 
-- 💞️ I’m looking to collaborate on ...all developers
+- 💞️ I’m looking to collaborate with...all developers
 - 📫 How to reach me ...email ndaremicheal@gmail.com
 
 <!---
